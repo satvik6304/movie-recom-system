@@ -2,7 +2,7 @@
 Welcome everyone! Here is your python based movie suggestion app!CineFile is designed to assist you in discovering  movies based on your preferences and mood. Whether you're in for a specific genre, want to explore movies by a favorite actor, or simply looking for recommendations, CineFile has got you covered. Enjoy the experience!
 # 🎬 Movie Recommendation System
 
-A simple genre based - movie recommendation system built with Python, Streamlit, and TMDB API.
+A simple genre based - movie recommendation system built with Python, Flutter, and TMDB API.
 
 ## 🔍 Features
 
@@ -13,8 +13,8 @@ A simple genre based - movie recommendation system built with Python, Streamlit,
 
 - Python
 - Pandas, Scikit-learn
-- Streamlit (for UI)
-- TMDB API (for posters)
+- Flutter (for UI)
+- TMDB API (dataset)
 
 ## 🚀 How to Run
 
