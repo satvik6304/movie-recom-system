@@ -1,13 +1,12 @@
 # Cine-File
-This is a project done for movie enthusiasts which helps them choose a movie based on their preferences, viewing history.
+Welcome everyone! Here is your python based movie suggestion app!CineFile is designed to assist you in discovering  movies based on your preferences and mood. Whether you're in for a specific genre, want to explore movies by a favorite actor, or simply looking for recommendations, CineFile has got you covered. Enjoy the experience!
 # 🎬 Movie Recommendation System
 
-A simple content-based movie recommendation system built with Python, Streamlit, and TMDB API.
+A simple genre based - movie recommendation system built with Python, Streamlit, and TMDB API.
 
 ## 🔍 Features
 
 - Search a movie and get 5 similar movie recommendations
-- See movie posters using TMDB API
 - Built using cosine similarity and TF-IDF vectorization
 
 ## 🛠️ Tech Stack
